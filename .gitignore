@@ -1,0 +1,31 @@
+# Ignorar de entorno virtual
+inventario_caule/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos de configuración local que pueden contener informacion sensible
+.env
+*.env
+
+# Ignorar archivos de IDE
+.vscode/
+.idea/
+
+# Ignorar archivos de base de datos local
+*.db
+*.sqlite3
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar archivos de compilación
+build/
+dist/
+*.egg-info/
+
+# Ignorar entorno virtual
+venv_311/
