@@ -1,6 +1,3 @@
-# Ignorar de entorno virtual
-inventario_caule/
-
 # Ignorar archivos temporales de Python
 __pycache__/
 *.pyc
